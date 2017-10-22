@@ -23,6 +23,11 @@ ansible-galaxy install debops-contrib.tor
 More information about `debops-contrib.tor` can be found in the
 [official debops-contrib.tor documentation](https://debops-contrib.readthedocs.io/en/latest/ansible/roles/ansible-tor/docs/).
 
+## Contributing
+
+Please note that this repository is not the upstream repository where changes should be contributed to.
+Head over to https://github.com/debops/debops where you can find the contents of this repo and where changes are welcome.
+
 
 
 ### Are you using this as a standalone role without DebOps?
